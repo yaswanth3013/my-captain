@@ -24,8 +24,8 @@ else:
        n2 = nth
        count += 1
 """
+input:How many terms: 7
 Output:
-How many terms: 7
 Fibonacci sequence:
 0
 1
